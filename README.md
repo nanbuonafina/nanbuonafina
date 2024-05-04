@@ -1,4 +1,4 @@
-# 💻 Maria Fernanda Buonafina
+# 💻 Maria Fernanda Trevizane Buonafina
 
 > **Estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas**
 
