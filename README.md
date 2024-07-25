@@ -9,6 +9,7 @@ Atualmente estou interessada no mundo da *cibersegurança* e *desenvolvimento de
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=numero-secreto-jogo&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=Bank-System&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=dio-lab-open-source&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 ### Vamos conversar? 📞
