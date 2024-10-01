@@ -7,9 +7,10 @@ Atualmente estou interessada no mundo da *cibersegurança* e *desenvolvimento de
 
 ***Constância e Disciplina.*** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=numero-secreto-jogo&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=Bank-System&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=dio-lab-open-source&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=numero-secreto-jogo&theme=dark&show_owner=true)](https://github.com/nanbuonafina/numero-secreto-jogo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=Bank-System&theme=dark&show_owner=true)](https://github.com/nanbuonafina/Bank-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=dio-lab-open-source&theme=dark&show_owner=true)](https://github.com/nanbuonafina/dio-lab-open-source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=my-country-app&theme=dark&show_owner=true)](https://github.com/nanbuonafina/my-country-app)
 
 #
 ### Vamos conversar? 📞
