@@ -3,7 +3,7 @@
 > **Estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas**
 
 ### Grande entusiasta da tecnologia e seus impactos globais
-Atualmente estou interessada no mundo da *cibersegurança* e *desenvolvimento de software*. Sou apaixonada por tecnologia, conhecer coisas novas, esportes e livros. Alguns dos meus hobbys são estudar outras culturas e idiomas, jogar volêi e aprender sobre tecnologia.
+Atualmente estou interessada no mundo da *cibersegurança* e *dados*. Sou apaixonada por tecnologia, conhecer coisas novas, esportes e livros. Alguns dos meus hobbys são estudar outras culturas e idiomas, jogar volêi e aprender sobre tecnologia.
 
 ***Constância e Disciplina.*** 
 
