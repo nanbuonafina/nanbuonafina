@@ -7,7 +7,7 @@ Atualmente estou interessada no mundo da *cibersegurança* e *dados*. Sou apaixo
 
 ***Constância e Disciplina.*** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=numero-secreto-jogo&theme=dark&show_owner=true)](https://github.com/nanbuonafina/numero-secreto-jogo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=modelagem_restaurante&theme=dark&show_owner=true)](https://github.com/nanbuonafina/modelagem_restaurante)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=Bank-System&theme=dark&show_owner=true)](https://github.com/nanbuonafina/Bank-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=EleicaoPOO&theme=dark&show_owner=true)](https://github.com/nanbuonafina/EleicaoPOO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanbuonafina&repo=my-country-app&theme=dark&show_owner=true)](https://github.com/nanbuonafina/my-country-app)
