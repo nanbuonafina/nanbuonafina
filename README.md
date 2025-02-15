@@ -37,11 +37,6 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
 </div>
 
-### **📚 Learning Technologies and Tools**
-
-- **Primary Focus Programming Language:** Python, C Shell
-- **Development Tools:** Prometheus, Grafana
-
 ### 📖 About me:
 
 > Sou Fernanda Buonafina, entusiasta de DevSecOps, apaixonada por segurança, automação e desenvolvimento de software. Minha trajetória combina habilidades técnicas sólidas com uma abordagem analítica e estratégica para resolver problemas complexos.
