@@ -39,7 +39,7 @@
 
 ### 📖 About me:
 
-> Sou Fernanda Buonafina, entusiasta de DevSecOps, apaixonada por segurança, automação e desenvolvimento de software. Minha trajetória combina habilidades técnicas sólidas com uma abordagem analítica e estratégica para resolver problemas complexos.
+> Sou Fernanda Buonafina, entusiasta de DevSecOps, apaixonada por segurança, automação e dados. Minha trajetória combina habilidades técnicas sólidas com uma abordagem analítica e estratégica para resolver problemas complexos.
 
 ### 🌱 O Que Me Define:
 Para mim, desenvolvimento de software vai além de habilidades técnicas. Aqui estão algumas das qualidades que me guiam no dia a dia e que acredito serem essenciais para o sucesso:
