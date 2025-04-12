@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HI!,+My+name+is+Fernanda+Buonafina;I'm+18+years+old;I'm+from+Brazil;Dev+Sec+Ops+Student🎓;Coding+with+passion❤️;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HI!+My+name+is+Fernanda+Buonafina;I'm+18+years+old;I'm+from+Brazil;DevSecOps+Student🎓;Coding+with+passion❤️;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fernanda-trevizane-buonafina/">
