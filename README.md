@@ -3,6 +3,7 @@
 <div align="center">
   <samp>
     <b>
+      コンピュータサイエンス
       <br>
       Olá, meu nome é Fernanda!
       <br>
