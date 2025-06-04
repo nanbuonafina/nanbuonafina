@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=bb00ff&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visit+Counter&ta=" alt="visits">
 </div>
       
 <br>
@@ -36,11 +36,10 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark) | 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanbuonafina&theme=nord_dark&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanbuonafina&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
