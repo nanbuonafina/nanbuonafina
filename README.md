@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visit+Counter&ta=" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=ae00ff&bg=00000000&no=2&ff=digi&tb=Visit+Counter%3A+&ta=" alt="visits">
 </div>
       
 <br>
