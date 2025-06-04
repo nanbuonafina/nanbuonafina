@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=049087&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
+  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=bb00ff&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
 </div>
       
 <br>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=I+am+from+Brazil;%3CI'm+curious+about+AI+and+DevSecOps;%3CBe+welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B21AF7&center=true&width=435&separator=%3C&lines=I+am+from+Brazil;%3CI'm+curious+about+AI+and+DevSecOps;%3CBe+welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
 <br>
