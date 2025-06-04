@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=40&c=049087&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
 </div>
       
 <br>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+curious+about+AI+and+DevSecOps;Be+welcome❤️!" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=I+am+from+Brazil;%3CI'm+curious+about+AI+and+DevSecOps;%3CBe+welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -36,10 +36,11 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark)
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanbuonafina&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
