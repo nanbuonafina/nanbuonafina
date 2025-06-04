@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
-
 <div align="center">
   <samp>
     <b>
@@ -39,7 +37,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanbuonafina&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
@@ -75,5 +73,3 @@
 
 <br>
 <br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
