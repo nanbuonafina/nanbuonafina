@@ -1,52 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HI!+My+name+is+Fernanda+Buonafina;I'm+18+years+old;I'm+from+Brazil;DevSecOps+Student🎓;Coding+with+passion❤️;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fernanda-trevizane-buonafina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:maria.fernanda.ufdc@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <samp>
+    <b>
+      システムアナリスト
+      <br>
+      Olá, meu nome é Fernanda!
+      <br>
 </div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+curious+about+AI+and+DevSecOps;Be+welcome❤️!" alt="Typing SVG"/>
+</div>
+
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+  
+</div>
+
 <br>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nanbuonafina&show_icons=true&theme=tokyonight">](https://github.com/nanbuonafina)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanbuonafina&layout=compact&theme=tokyonight">](https://github.com/nanbuonafina)
+##
 
-### 🌟 Hard Skills
+<br>
 
-- **👩‍💻 Programming Languages**:
-  <p>
-  <a href="https://skillicons.dev">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" alt="C Icon"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="Java Icon"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" alt="Javascript Icon"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" alt="Python Icon"/>
-  </a>
-</p>
+<div align="center">
 
-- **🛠️ Development Tools and Version Control**:
-<div>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maria.fernanda.ufdc@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fernanda-trevizane-buonafina/)  
+  
 </div>
 
-### 📖 About me:
+##
 
-> Sou Fernanda Buonafina, entusiasta de DevSecOps, apaixonada por segurança, automação e dados. Minha trajetória combina habilidades técnicas sólidas com uma abordagem analítica e estratégica para resolver problemas complexos.
+</details>
 
-### 🌱 O Que Me Define:
-Para mim, desenvolvimento de software vai além de habilidades técnicas. Aqui estão algumas das qualidades que me guiam no dia a dia e que acredito serem essenciais para o sucesso:
-- **Resiliência:**
-> Encaro desafios com determinação, buscando soluções eficientes para problemas complexos.
-- **Aprendizado Contínuo:**
-> Tenho uma mentalidade investigativa e adoro explorar novas tecnologias, aprimorando minhas habilidades constantemente.
-- **Trabalho em Equipe**
-> Valorizo a colaboração e acredito que o conhecimento cresce quando compartilhado.
-- **Pensamento Crítico:**
-> Analiso situações com profundidade, garantindo decisões bem fundamentadas.
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
