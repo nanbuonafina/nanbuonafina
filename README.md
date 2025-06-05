@@ -46,11 +46,11 @@
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" />
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
   
 </div>
 
