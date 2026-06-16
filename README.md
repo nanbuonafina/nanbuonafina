@@ -1,75 +1,68 @@
 <div align="center">
-  <samp>
-    <b>
-      コンピュータサイエンス
-      <br>
-      Olá, meu nome é Fernanda!
-      <br>
-</div>
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fnanbuonafina&s=24&c=ae00ff&bg=00000000&no=2&ff=digi&tb=Visit+Counter%3A+&ta=" alt="visits">
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
-</div>
-
-<div align="center" width="100%">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B21AF7&center=true&width=435&separator=%3C&lines=I+am+from+Brazil%3CI'm+curious+about+AI+and+DevSecOps;%3CBe+welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
-</div>
-
-<br>
-<details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanbuonafina&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
-  
+  <h2> コンピュータサイエンス | Olá, sou a Fernanda! 👩🏻‍💻 </h2>
+  <a href="mailto:maria.fernanda.ufdc@gmail.com"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/fernanda-trevizane-buonafina/"><img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
 </div>
 
 <br>
 
-##
+### 🚀 Sobre Mim
+Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automação de Processos (RPA)** e construção de **Agentes de IA** de forma segura. Meu foco é sempre unir inovação, segurança e escalabilidade para resolver problemas reais de negócio.
+
+* ☁️ **Cloud & Arquitetura:** Prática corporativa em **Microsoft Azure** (ênfase em AI Fabric para construção de agentes) e certificação *Cloud Practitioner* na **AWS**.
+* 🔐 **Segurança & DevOps:** Desenvolvimento focado em AppSec, integrando práticas de **DevSecOps**, monitoramento e gestão de servidores Linux.
+* 🤖 **Inteligência Artificial:** Experiência na construção de ecossistemas complexos com múltiplos agentes especialistas interagindo via LLMs e RAG.
 
 <br>
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maria.fernanda.ufdc@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fernanda-trevizane-buonafina/)  
-  
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" />
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" />
 </div>
 
-##
+<br>
 
-</details>
+### 💼 Experiência & Projetos em Destaque
+
+#### 🧠 Projeto Veritas - Plataforma de Análise de Contratos com IA
+> *Arquitetura Multi-Agente baseada em Azure, LLMs e pipeline RAG.*
+* **Orquestração de IA:** Desenvolvi uma solução com **11 agentes especialistas + 1 orquestrador** para interpretação automatizada de cláusulas contratuais.
+* **Impacto:** Redução de **~67%** no tempo de análise (de 120min para 40min).
+* **Desenvolvimento:** Interface web em Python para upload, armazenamento em banco não-estruturado no Azure e integração com Microsoft Teams para adoção fluida das áreas de negócio.
+
+#### ⚙️ Automação de Processos Críticos (RPA)
+> *Substituição de processos manuais com alto esforço operacional e risco de erro humano.*
+* **Automação Escalonável:** Desenvolvimento de fluxo automatizado em **Python + Selenium** baseado em eventos para processar **+1200 solicitações/mês**.
+* **Confiabilidade:** Integração com Excel para leitura de dados e estruturação completa de logs para rastreabilidade, com filtros para identificação e reporte imediato de falhas.
+
+#### ☁️ Infraestrutura Escalável e Monitorada na AWS (DevSecOps)
+> *Projeto de Estágio na CompassUOL (Dez 2024 - Maio 2025)*
+* Implementação de aplicação web containerizada com foco em alta disponibilidade e isolamento seguro.
+* **Stack Utilizado:** Docker, EC2, RDS, EFS, ELB, Auto Scaling e CloudWatch para observabilidade e dashboards.
+
+#### 📊 Engenharia e Análise de Dados Corporativos
+> *Projeto de Estágio na Bernhoeft (Ago 2025 - Out 2025)*
+* Automação de pipelines de extração, criação de relatórios estratégicos e desenvolvimento de queries complexas em SQL focadas em ERP.
 
 <br>
+
+### 📊 GitHub Analytics
+
 <br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanbuonafina&theme=nord_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanbuonafina&theme=nord_dark" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanbuonafina&theme=nord_dark" />
+  <img src="https://streak-stats.demolab.com/?user=nanbuonafina&theme=nord" />
+</div>
