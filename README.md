@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> コンピュータサイエンス | Olá, sou a Fernanda! 👩🏻‍💻 </h2>
+  <h2> コンピュータサイエンス | i'm nan! 👩🏻‍💻 </h2>
   <a href="mailto:maria.fernanda.ufdc@gmail.com"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
   <a href="https://www.linkedin.com/in/fernanda-trevizane-buonafina/"><img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
 </div>
