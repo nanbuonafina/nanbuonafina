@@ -64,9 +64,7 @@ With nearly 2 years of professional experience, I specialize in **Robotic Proces
 * Automated data extraction pipelines, built strategic business reports, and engineered complex SQL queries tailored for enterprise ERP systems.
 
 ---
-
 ## 🇧🇷 Versão em Português
-
 <details>
 <summary><b>Clique aqui para expandir a versão em português 📄</b></summary>
 <br>
@@ -101,7 +99,5 @@ Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automa�
 #### 📊 Engenharia e Análise de Dados Corporativos
 > *Projeto de Estágio na Bernhoeft (Ago 2025 - Out 2025)*
 * Automação de pipelines de extração, criação de relatórios estratégicos e desenvolvimento de queries complexas em SQL focadas em ERP.
-
 </details>
-
 ---
