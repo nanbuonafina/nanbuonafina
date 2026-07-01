@@ -66,7 +66,7 @@ With nearly 2 years of professional experience, I specialize in **Robotic Proces
 ---
 ## 🇧🇷 Versão em Português
 <details>
-<summary><b>Clique aqui para expandir a versão em português 📄</b></summary>
+<summary><b>Clique aqui para expandir a versão em português</b></summary>
 <br>
 
 ### 🚀 Sobre Mim
@@ -100,4 +100,5 @@ Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automa�
 > *Projeto de Estágio na Bernhoeft (Ago 2025 - Out 2025)*
 * Automação de pipelines de extração, criação de relatórios estratégicos e desenvolvimento de queries complexas em SQL focadas em ERP.
 </details>
+
 ---
