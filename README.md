@@ -25,16 +25,16 @@ With nearly 2 years of professional experience, I specialize in **Robotic Proces
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </div>
 
 <br>
