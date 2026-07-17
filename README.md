@@ -100,3 +100,4 @@ Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automa�
 </details>
 
 ---
+![Animação da Cobrinha](https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake.svg)
