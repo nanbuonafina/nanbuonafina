@@ -100,4 +100,12 @@ Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automa�
 </details>
 
 ---
-![Animação da Cobrinha](https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake.svg)
+<h2 align="left">Contirbutions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake.svg">
+  
+  <img alt="Animação da Cobrinha" src="https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake.svg">
+</picture>
