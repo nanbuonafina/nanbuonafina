@@ -100,7 +100,7 @@ Com quase 2 anos de atuação profissional, atuo no desenvolvimento de **Automa�
 </details>
 
 ---
-<h2 align="left">Contirbutions</h2>
+<h2 align="left">Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanbuonafina/nanbuonafina/output/github-contribution-grid-snake-dark.svg">
